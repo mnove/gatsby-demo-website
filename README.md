@@ -11,19 +11,17 @@
 Simple boilerplate for Gatsby site
 
 
-## 🚀 What's inside?
+## What's inside?
 
 
-1.  **Gatsby**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
+1. Gatsby
+2. Gatsby Hello World starter
+3. CSS Modules
+4. Graphql
+5. GraphqlGATSBY_GRAPHQL_IDE=playground
 
-Gatsby
-Gatsby Hello World starter
-CSS Modules
-Graphql
-GATSBY_GRAPHQL_IDE=playground
-
-PLUGINS
-gatsby-source-filesystem
-sass
+**Plugins**
+1. gatsby-source-filesystem
+2. sass
 <!-- AUTO-GENERATED-CONTENT:END -->
